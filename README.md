@@ -10,5 +10,7 @@ This VBA script deletes rows with Environment IDs that are not included in your 
    - Insert a new module (Insert > Module).
    - Copy and paste the provided VBA code into the module.
   
-3. **Run the Macro:**
+3. **Adjust the list of the Environment IDs that you need to keep in the report (line 11)**
+  
+4. **Run the Macro:**
    - F5 or from Excel Developer tab > Macros
