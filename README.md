@@ -1,6 +1,6 @@
 ## VBA Script for Filtering Environments in the Excel Report
 
-This VBA script deletes rows with Environment IDs that are not included in your specified domain list.
+This VBA script deletes rows with Environment IDs that are not included in your specified list.
 
 1. **Open the Excel File:**
    Open the Excel file in which you need to filter the data.
